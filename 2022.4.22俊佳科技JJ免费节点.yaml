@@ -5,15 +5,18 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: (小火箭圈X购买地址https://pgzy8.com)_1, server: aead.tls.sksupersususu.dnsfree.top, port: 12345, type: trojan, password: 44d62787-1cbf-42aa-99d7-21e9bcdb1c24, sni: aead.tls.sksupersususu.dnsfree.top, skip-cert-verify: true, udp: true}
-  - {name: (小火箭圈X购买地址https://pgzy8.com)_2, server: aead.tls.sksupersususu.dnsfree.top, port: 80, type: vmess, uuid: 44d62787-1cbf-42aa-99d7-21e9bcdb1c24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: tiebapic.baidu.com}, udp: true}
-  - {name: (小火箭圈X购买地址https://pgzy8.com)_3, server: 20.222.157.39, port: 50293, type: ss, cipher: chacha20-ietf-poly1305, password: 44d62787-1cbf-42aa-99d7-21e9bcdb1c24, udp: true}
-  - {name: (小火箭圈X购买地址https://pgzy8.com)_4, server: 20.239.49.44, port: 80, type: vmess, uuid: 44d62787-1cbf-42aa-99d7-21e9bcdb1c24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: tiebapic.baidu.com}, udp: true}
-  - {name: (小火箭圈X购买地址https://pgzy8.com)_5, server: 20.239.49.44, port: 59814, type: ss, cipher: chacha20-ietf-poly1305, password: 44d62787-1cbf-42aa-99d7-21e9bcdb1c24, udp: true}
-  - {name: (小火箭圈X购买地址https://pgzy8.com)_6, server: baidu.hongkong.dnsfree.top, port: 12345, type: trojan, password: 44d62787-1cbf-42aa-99d7-21e9bcdb1c24, sni: baidu.hongkong.dnsfree.top, skip-cert-verify: true, udp: true}
-  - {name: (小火箭圈X购买地址https://pgzy8.com)_7, server: pro.tls.hongkongaz.dnsfree.top, port: 55091, type: trojan, password: 44d62787-1cbf-42aa-99d7-21e9bcdb1c24, sni: pro.tls.hongkongaz.dnsfree.top, skip-cert-verify: true, udp: true}
-  - {name: (小火箭圈X购买地址https://pgzy8.com)_8, server: superjapan1111.dnsfree.top, port: 12387, type: trojan, password: 44d62787-1cbf-42aa-99d7-21e9bcdb1c24, sni: superjapan1111.dnsfree.top, skip-cert-verify: true, udp: true}
-  - {name: (小火箭圈X购买地址https://pgzy8.com)_9, server: superjapan1111.dnsfree.top, port: 80, type: vmess, uuid: 44d62787-1cbf-42aa-99d7-21e9bcdb1c24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: tiebapic.baidu.com}, udp: true}
+  - {name: (小火箭圈X购买:https://pgzy8.com)_1, server: aead.tls.sksupersususu.dnsfree.top, port: 12345, type: trojan, password: 88a9f78d-b899-47af-b84a-60fbffbd0ec1, sni: aead.tls.sksupersususu.dnsfree.top, skip-cert-verify: true, udp: true}
+  - {name: (小火箭圈X购买:https://pgzy8.com)_2, server: aead.tls.sksupersususu.dnsfree.top, port: 80, type: vmess, uuid: 88a9f78d-b899-47af-b84a-60fbffbd0ec1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: tiebapic.baidu.com}, udp: true}
+  - {name: (小火箭圈X购买:https://pgzy8.com)_3, server: 20.222.157.39, port: 50293, type: ss, cipher: chacha20-ietf-poly1305, password: 88a9f78d-b899-47af-b84a-60fbffbd0ec1, udp: true}
+  - {name: (小火箭圈X购买:https://pgzy8.com)_4, server: 20.239.49.44, port: 80, type: vmess, uuid: 88a9f78d-b899-47af-b84a-60fbffbd0ec1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: tiebapic.baidu.com}, udp: true}
+  - {name: (小火箭圈X购买:https://pgzy8.com)_5, server: 20.239.49.44, port: 59814, type: ss, cipher: chacha20-ietf-poly1305, password: 88a9f78d-b899-47af-b84a-60fbffbd0ec1, udp: true}
+  - {name: (小火箭圈X购买:https://pgzy8.com)_6, server: baidu.hongkong.dnsfree.top, port: 12345, type: trojan, password: 88a9f78d-b899-47af-b84a-60fbffbd0ec1, sni: baidu.hongkong.dnsfree.top, skip-cert-verify: true, udp: true}
+  - {name: (小火箭圈X购买:https://pgzy8.com)_7, server: dg1.9218561.xyz, port: 36930, type: trojan, password: 88a9f78d-b899-47af-b84a-60fbffbd0ec1, sni: dg1.9218561.xyz, skip-cert-verify: true, udp: true}
+  - {name: (小火箭圈X购买:https://pgzy8.com)_8, server: dg1.9218561.xyz, port: 10597, type: trojan, password: 88a9f78d-b899-47af-b84a-60fbffbd0ec1, sni: dg1.9218561.xyz, skip-cert-verify: true, udp: true}
+  - {name: (小火箭圈X购买:https://pgzy8.com)_9, server: superjapan1111.dnsfree.top, port: 12387, type: trojan, password: 88a9f78d-b899-47af-b84a-60fbffbd0ec1, sni: superjapan1111.dnsfree.top, skip-cert-verify: true, udp: true}
+  - {name: (小火箭圈X购买:https://pgzy8.com)_10, server: superjapan1111.dnsfree.top, port: 80, type: vmess, uuid: 88a9f78d-b899-47af-b84a-60fbffbd0ec1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: tiebapic.baidu.com}, udp: true}
+  - {name: (小火箭圈X购买:https://pgzy8.com)_11, server: aead.tls.sksupersususu.dnsfree.top, port: 12345, type: trojan, password: 44d62787-1cbf-42aa-99d7-21e9bcdb1c24, sni: aead.tls.sksupersususu.dnsfree.top, skip-cert-verify: true, udp: true}
+  - {name: (小火箭圈X购买:https://pgzy8.com)_12, server: 20.239.49.44, port: 80, type: vmess, uuid: 44d62787-1cbf-42aa-99d7-21e9bcdb1c24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: tiebapic.baidu.com}, udp: true}
   - {name: (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_1, server: hk2.aead.ml, port: 10402, type: trojan, password: 4234aaad-2022-426d-991b-608960beae60, sni: hk2.aead.ml, skip-cert-verify: true, udp: true}
   - {name: (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_2, server: hk1.aead.ml, port: 10401, type: trojan, password: 4234aaad-2022-426d-991b-608960beae60, sni: hk1.aead.ml, skip-cert-verify: true, udp: true}
   - {name: (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_3, server: in02.dns2333.xyz, port: 64078, type: vmess, uuid: a34d6fe7-7ab0-3071-81f7-e24c8edd2acb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: in02.dns2333.xyz}, udp: true}
@@ -210,15 +213,18 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - (小火箭圈X购买地址https://pgzy8.com)_1
-      - (小火箭圈X购买地址https://pgzy8.com)_2
-      - (小火箭圈X购买地址https://pgzy8.com)_3
-      - (小火箭圈X购买地址https://pgzy8.com)_4
-      - (小火箭圈X购买地址https://pgzy8.com)_5
-      - (小火箭圈X购买地址https://pgzy8.com)_6
-      - (小火箭圈X购买地址https://pgzy8.com)_7
-      - (小火箭圈X购买地址https://pgzy8.com)_8
-      - (小火箭圈X购买地址https://pgzy8.com)_9
+      - (小火箭圈X购买:https://pgzy8.com)_1
+      - (小火箭圈X购买:https://pgzy8.com)_2
+      - (小火箭圈X购买:https://pgzy8.com)_3
+      - (小火箭圈X购买:https://pgzy8.com)_4
+      - (小火箭圈X购买:https://pgzy8.com)_5
+      - (小火箭圈X购买:https://pgzy8.com)_6
+      - (小火箭圈X购买:https://pgzy8.com)_7
+      - (小火箭圈X购买:https://pgzy8.com)_8
+      - (小火箭圈X购买:https://pgzy8.com)_9
+      - (小火箭圈X购买:https://pgzy8.com)_10
+      - (小火箭圈X购买:https://pgzy8.com)_11
+      - (小火箭圈X购买:https://pgzy8.com)_12
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_1
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_2
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_3
@@ -414,15 +420,18 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - (小火箭圈X购买地址https://pgzy8.com)_1
-      - (小火箭圈X购买地址https://pgzy8.com)_2
-      - (小火箭圈X购买地址https://pgzy8.com)_3
-      - (小火箭圈X购买地址https://pgzy8.com)_4
-      - (小火箭圈X购买地址https://pgzy8.com)_5
-      - (小火箭圈X购买地址https://pgzy8.com)_6
-      - (小火箭圈X购买地址https://pgzy8.com)_7
-      - (小火箭圈X购买地址https://pgzy8.com)_8
-      - (小火箭圈X购买地址https://pgzy8.com)_9
+      - (小火箭圈X购买:https://pgzy8.com)_1
+      - (小火箭圈X购买:https://pgzy8.com)_2
+      - (小火箭圈X购买:https://pgzy8.com)_3
+      - (小火箭圈X购买:https://pgzy8.com)_4
+      - (小火箭圈X购买:https://pgzy8.com)_5
+      - (小火箭圈X购买:https://pgzy8.com)_6
+      - (小火箭圈X购买:https://pgzy8.com)_7
+      - (小火箭圈X购买:https://pgzy8.com)_8
+      - (小火箭圈X购买:https://pgzy8.com)_9
+      - (小火箭圈X购买:https://pgzy8.com)_10
+      - (小火箭圈X购买:https://pgzy8.com)_11
+      - (小火箭圈X购买:https://pgzy8.com)_12
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_1
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_2
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_3
@@ -619,15 +628,18 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - (小火箭圈X购买地址https://pgzy8.com)_1
-      - (小火箭圈X购买地址https://pgzy8.com)_2
-      - (小火箭圈X购买地址https://pgzy8.com)_3
-      - (小火箭圈X购买地址https://pgzy8.com)_4
-      - (小火箭圈X购买地址https://pgzy8.com)_5
-      - (小火箭圈X购买地址https://pgzy8.com)_6
-      - (小火箭圈X购买地址https://pgzy8.com)_7
-      - (小火箭圈X购买地址https://pgzy8.com)_8
-      - (小火箭圈X购买地址https://pgzy8.com)_9
+      - (小火箭圈X购买:https://pgzy8.com)_1
+      - (小火箭圈X购买:https://pgzy8.com)_2
+      - (小火箭圈X购买:https://pgzy8.com)_3
+      - (小火箭圈X购买:https://pgzy8.com)_4
+      - (小火箭圈X购买:https://pgzy8.com)_5
+      - (小火箭圈X购买:https://pgzy8.com)_6
+      - (小火箭圈X购买:https://pgzy8.com)_7
+      - (小火箭圈X购买:https://pgzy8.com)_8
+      - (小火箭圈X购买:https://pgzy8.com)_9
+      - (小火箭圈X购买:https://pgzy8.com)_10
+      - (小火箭圈X购买:https://pgzy8.com)_11
+      - (小火箭圈X购买:https://pgzy8.com)_12
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_1
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_2
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_3
@@ -836,15 +848,18 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - (小火箭圈X购买地址https://pgzy8.com)_1
-      - (小火箭圈X购买地址https://pgzy8.com)_2
-      - (小火箭圈X购买地址https://pgzy8.com)_3
-      - (小火箭圈X购买地址https://pgzy8.com)_4
-      - (小火箭圈X购买地址https://pgzy8.com)_5
-      - (小火箭圈X购买地址https://pgzy8.com)_6
-      - (小火箭圈X购买地址https://pgzy8.com)_7
-      - (小火箭圈X购买地址https://pgzy8.com)_8
-      - (小火箭圈X购买地址https://pgzy8.com)_9
+      - (小火箭圈X购买:https://pgzy8.com)_1
+      - (小火箭圈X购买:https://pgzy8.com)_2
+      - (小火箭圈X购买:https://pgzy8.com)_3
+      - (小火箭圈X购买:https://pgzy8.com)_4
+      - (小火箭圈X购买:https://pgzy8.com)_5
+      - (小火箭圈X购买:https://pgzy8.com)_6
+      - (小火箭圈X购买:https://pgzy8.com)_7
+      - (小火箭圈X购买:https://pgzy8.com)_8
+      - (小火箭圈X购买:https://pgzy8.com)_9
+      - (小火箭圈X购买:https://pgzy8.com)_10
+      - (小火箭圈X购买:https://pgzy8.com)_11
+      - (小火箭圈X购买:https://pgzy8.com)_12
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_1
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_2
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_3
@@ -1046,15 +1061,18 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - (小火箭圈X购买地址https://pgzy8.com)_1
-      - (小火箭圈X购买地址https://pgzy8.com)_2
-      - (小火箭圈X购买地址https://pgzy8.com)_3
-      - (小火箭圈X购买地址https://pgzy8.com)_4
-      - (小火箭圈X购买地址https://pgzy8.com)_5
-      - (小火箭圈X购买地址https://pgzy8.com)_6
-      - (小火箭圈X购买地址https://pgzy8.com)_7
-      - (小火箭圈X购买地址https://pgzy8.com)_8
-      - (小火箭圈X购买地址https://pgzy8.com)_9
+      - (小火箭圈X购买:https://pgzy8.com)_1
+      - (小火箭圈X购买:https://pgzy8.com)_2
+      - (小火箭圈X购买:https://pgzy8.com)_3
+      - (小火箭圈X购买:https://pgzy8.com)_4
+      - (小火箭圈X购买:https://pgzy8.com)_5
+      - (小火箭圈X购买:https://pgzy8.com)_6
+      - (小火箭圈X购买:https://pgzy8.com)_7
+      - (小火箭圈X购买:https://pgzy8.com)_8
+      - (小火箭圈X购买:https://pgzy8.com)_9
+      - (小火箭圈X购买:https://pgzy8.com)_10
+      - (小火箭圈X购买:https://pgzy8.com)_11
+      - (小火箭圈X购买:https://pgzy8.com)_12
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_1
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_2
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_3
@@ -1250,15 +1268,18 @@ proxy-groups:
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - (小火箭圈X购买地址https://pgzy8.com)_1
-      - (小火箭圈X购买地址https://pgzy8.com)_2
-      - (小火箭圈X购买地址https://pgzy8.com)_3
-      - (小火箭圈X购买地址https://pgzy8.com)_4
-      - (小火箭圈X购买地址https://pgzy8.com)_5
-      - (小火箭圈X购买地址https://pgzy8.com)_6
-      - (小火箭圈X购买地址https://pgzy8.com)_7
-      - (小火箭圈X购买地址https://pgzy8.com)_8
-      - (小火箭圈X购买地址https://pgzy8.com)_9
+      - (小火箭圈X购买:https://pgzy8.com)_1
+      - (小火箭圈X购买:https://pgzy8.com)_2
+      - (小火箭圈X购买:https://pgzy8.com)_3
+      - (小火箭圈X购买:https://pgzy8.com)_4
+      - (小火箭圈X购买:https://pgzy8.com)_5
+      - (小火箭圈X购买:https://pgzy8.com)_6
+      - (小火箭圈X购买:https://pgzy8.com)_7
+      - (小火箭圈X购买:https://pgzy8.com)_8
+      - (小火箭圈X购买:https://pgzy8.com)_9
+      - (小火箭圈X购买:https://pgzy8.com)_10
+      - (小火箭圈X购买:https://pgzy8.com)_11
+      - (小火箭圈X购买:https://pgzy8.com)_12
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_1
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_2
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_3
@@ -1455,15 +1476,18 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - (小火箭圈X购买地址https://pgzy8.com)_1
-      - (小火箭圈X购买地址https://pgzy8.com)_2
-      - (小火箭圈X购买地址https://pgzy8.com)_3
-      - (小火箭圈X购买地址https://pgzy8.com)_4
-      - (小火箭圈X购买地址https://pgzy8.com)_5
-      - (小火箭圈X购买地址https://pgzy8.com)_6
-      - (小火箭圈X购买地址https://pgzy8.com)_7
-      - (小火箭圈X购买地址https://pgzy8.com)_8
-      - (小火箭圈X购买地址https://pgzy8.com)_9
+      - (小火箭圈X购买:https://pgzy8.com)_1
+      - (小火箭圈X购买:https://pgzy8.com)_2
+      - (小火箭圈X购买:https://pgzy8.com)_3
+      - (小火箭圈X购买:https://pgzy8.com)_4
+      - (小火箭圈X购买:https://pgzy8.com)_5
+      - (小火箭圈X购买:https://pgzy8.com)_6
+      - (小火箭圈X购买:https://pgzy8.com)_7
+      - (小火箭圈X购买:https://pgzy8.com)_8
+      - (小火箭圈X购买:https://pgzy8.com)_9
+      - (小火箭圈X购买:https://pgzy8.com)_10
+      - (小火箭圈X购买:https://pgzy8.com)_11
+      - (小火箭圈X购买:https://pgzy8.com)_12
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_1
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_2
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_3
@@ -1669,15 +1693,18 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - (小火箭圈X购买地址https://pgzy8.com)_1
-      - (小火箭圈X购买地址https://pgzy8.com)_2
-      - (小火箭圈X购买地址https://pgzy8.com)_3
-      - (小火箭圈X购买地址https://pgzy8.com)_4
-      - (小火箭圈X购买地址https://pgzy8.com)_5
-      - (小火箭圈X购买地址https://pgzy8.com)_6
-      - (小火箭圈X购买地址https://pgzy8.com)_7
-      - (小火箭圈X购买地址https://pgzy8.com)_8
-      - (小火箭圈X购买地址https://pgzy8.com)_9
+      - (小火箭圈X购买:https://pgzy8.com)_1
+      - (小火箭圈X购买:https://pgzy8.com)_2
+      - (小火箭圈X购买:https://pgzy8.com)_3
+      - (小火箭圈X购买:https://pgzy8.com)_4
+      - (小火箭圈X购买:https://pgzy8.com)_5
+      - (小火箭圈X购买:https://pgzy8.com)_6
+      - (小火箭圈X购买:https://pgzy8.com)_7
+      - (小火箭圈X购买:https://pgzy8.com)_8
+      - (小火箭圈X购买:https://pgzy8.com)_9
+      - (小火箭圈X购买:https://pgzy8.com)_10
+      - (小火箭圈X购买:https://pgzy8.com)_11
+      - (小火箭圈X购买:https://pgzy8.com)_12
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_1
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_2
       - (Youtube/TG：俊佳科技JJ)_🇨🇳_中国_3
